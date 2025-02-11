@@ -25,3 +25,7 @@ Continue your exploration of Tableau's advanced visualization capabilities using
 4. **Dashboard Creation**: Combine the above charts into a unified dashboard. Ensure that the dashboard is organized and allows for interactive exploration of the data.
 
 5. **Story**: Synthesize your analysis into a Tableau story. Construct a narrative that guides viewers through your key findings, providing context and insights drawn from the visualizations.
+
+
+tableau public link: https://public.tableau.com/views/lab-tableau-advanced_17392841528760/Dashboard4?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/timo.lischke/viz/lab-tableau-advanced_17392841528760/Dashboard4?publish=yes
