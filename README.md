@@ -2,6 +2,56 @@
 
 # Lab | Advanced Tableau Visualization
 
+https://public.tableau.com/app/profile/claudio.do.prado/viz/lab-tableau-advanced_17471305779260/CustomerDataAnalysisDashboard?publish=yes
+
+### Trend Lines Model
+
+A linear trend model is computed for sum of Income given sum of Customer Lifetime Value.  The model may be significant at p <= 0.05.
+
+ - Model formula:	( Customer Lifetime Value + intercept )
+ - Number of modelled observations:	9134
+ - Number of filtered observations:	0
+ - Model degrees of freedom:	2
+ - Residual degrees of freedom (DF):	9132
+ - SSE (sum squared error):	8.42419e+12
+ - MSE (mean squared error):	9.22492e+08
+ - R-Squared:	0.0005937
+ - Standard error:	30372.5
+ - p-value (significance):	0.0198749
+
+### Individual trend lines:
+
+ - Panes -	                                  - Line - 	                  - Coefficients - 
+ - Row - 	      - Column -                  - p-value - 	 - DF - 	    - Term -                 - Value - 	     - StdErr - 	- t-value -  - p-value - 
+  Income	      Customer Lifetime Value	   0.0198749	  9132	   Customer Lifetime Value	      0.107732	     0.0462548	      2.32911	  0.0198749
+	                                                                       intercept	                36795	       487.948	      75.4077	  < 0.0001
+
+### Key Findings:
+
+Model Significance:
+The p-value for the overall model is approximately 0.0199, which is less than 0.05, indicating the model is statistically significant. This suggests that Income is a meaningful predictor of Customer Lifetime Value.
+
+### Coefficient (Slope):
+
+The coefficient for Income is approximately 0.108, meaning that for every additional unit (e.g., dollar) of income, the Customer Lifetime Value increases by about $0.108 on average.
+
+### Intercept:
+
+The intercept value is roughly 36,795, which represents the estimated Customer Lifetime Value when Income is zero (though this may not have practical meaning depending on data context).
+
+
+### Model Fit (R-Squared):
+
+The R-squared is very low (~0.0006), indicating that Income explains only a tiny portion of the variability in Customer Lifetime Value. Therefore, while the relationship is statistically significant, Income alone is a weak predictor of Customer Lifetime Value.
+
+### Implication:
+
+Since the model is statistically significant but explains very little variation, there might be other stronger factors influencing Customer Lifetime Value that are not included here.
+
+### Summary:
+
+The analysis indicates a significant but weak relationship between Income and Customer Lifetime Value. While higher income is associated with higher CLV, the effect size is small, and income alone doesn't account for much of the variability in CLV. For better predictive accuracy, consider including additional variables.
+
 ### Learning Outcomes
 
 Upon completion of this lab, you will be able to:
