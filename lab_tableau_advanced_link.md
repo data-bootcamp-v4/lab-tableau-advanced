@@ -1,2 +1,1 @@
-Link to Tableau Dashboard :
 https://public.tableau.com/views/GenderDashboard_17742730667320/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
