@@ -27,4 +27,4 @@ Continue your exploration of Tableau's advanced visualization capabilities using
 5. **Story**: Synthesize your analysis into a Tableau story. Construct a narrative that guides viewers through your key findings, providing context and insights drawn from the visualizations.
 
 ### Tableau Dashboard
-Link [here](https://public.tableau.com/app/profile/gabriela.cascione/viz/lab_Tableau_17779041521220/GenderBarplot?publish=yes)
+Link [here](https://public.tableau.com/app/profile/gabriela.cascione/viz/lab_Tableau_17779041521220/MetricsDashboard?publish=yes)
