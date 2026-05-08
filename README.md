@@ -2,6 +2,10 @@
 
 # Lab | Advanced Tableau Visualization
 
+# Link to my Tableau Lab 1 +2 Dashboard
+
+https://public.tableau.com/views/tableau-lab_17781754296040/AdvancedDashboard?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ### Learning Outcomes
 
 Upon completion of this lab, you will be able to:
