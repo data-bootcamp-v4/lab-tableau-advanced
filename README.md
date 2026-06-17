@@ -25,3 +25,9 @@ Continue your exploration of Tableau's advanced visualization capabilities using
 4. **Dashboard Creation**: Combine the above charts into a unified dashboard. Ensure that the dashboard is organized and allows for interactive exploration of the data.
 
 5. **Story**: Synthesize your analysis into a Tableau story. Construct a narrative that guides viewers through your key findings, providing context and insights drawn from the visualizations.
+
+
+
+### Dashboard Link
+
+https://dub01.online.tableau.com/t/abanoubbarayode-55025ef83e/views/tableau-lab-advanced-ironhack/MainDashboard
