@@ -25,3 +25,54 @@ Continue your exploration of Tableau's advanced visualization capabilities using
 4. **Dashboard Creation**: Combine the above charts into a unified dashboard. Ensure that the dashboard is organized and allows for interactive exploration of the data.
 
 5. **Story**: Synthesize your analysis into a Tableau story. Construct a narrative that guides viewers through your key findings, providing context and insights drawn from the visualizations.
+
+## Lab Submission
+
+### 1. Choropleth Map
+
+Created a filled map showing customer distribution across U.S. states. Color intensity represents the number of customers in each state.
+
+Sheet: `Customer Distribution by State`
+
+### 2. Regression Plot
+
+Created a scatter plot comparing Income and Customer Lifetime Value with a linear trend line.
+
+R squared: 0.0006  
+p value: 0.0199
+
+Sheet: `Income vs Customer Lifetime Value`
+
+### 3. Boxplot Analysis
+
+Created boxplots comparing Total Claim Amount across Vehicle Size categories. The visualization shows the distribution, spread, and outliers for Small, Large, and Medsize vehicles.
+
+Sheet: `Total Claim Amount against Vehicle Size`
+
+### 4. Dashboard Creation
+
+Created an interactive dashboard combining the Choropleth map, regression plot, and boxplot.
+
+The state map is configured as an interactive filter so users can select a state and update the other visualizations.
+
+Dashboard: `Advanced Customer Analysis Dashboard`
+
+### 5. Tableau Story
+
+Created a Tableau story with four analytical story points:
+
+1. Customer Base Is Concentrated in Western States
+2. Income Has Little Influence on Customer Lifetime Value
+3. High Claim Outliers Occur Across Vehicle Sizes
+4. Customer Value and Risk Require Multiple Factors
+
+Each story point includes a visualization and narrative explaining the analytical finding and business implication.
+
+Story: `Customer Value and Claims Story`
+
+## Submission File
+
+The completed Tableau packaged workbook is:
+
+`tableau-lab.twbx`
+
