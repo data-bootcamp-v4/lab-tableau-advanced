@@ -2,6 +2,8 @@
 
 # Lab | Advanced Tableau Visualization
 
+## My link to Tableau Public: [HERE](https://public.tableau.com/views/solved_lab_yurii/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 ### Learning Outcomes
 
 Upon completion of this lab, you will be able to:
